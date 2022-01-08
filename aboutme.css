@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body {
+    background-color:blanchedalmond;
+    color: black;
+    font-family: pt sans;
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    color:chocolate;
+    font-family: lobster;
+    font-size: 50px;
+}
+
+h2 {
+    color: coral;
+    font-family: lobster;
+    font-size: 40px;
+}
+
+#me {
+    height: 140px;
+    width: 140px;
+    display: inline;
+    justify-content: start;
+    border-radius: 5cm;
+}
+footer {
+    text-align: center;
+}
+button:hover {
+    background-color: chartreuse;
+    font-size: 20px;
+}
+
+ul li {
+    color: red;
+}
+
+ol li {
+    color: hotpink;
+}
